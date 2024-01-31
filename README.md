@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Jaydip-Hadiya full-stack software developer
+- 👀 I’m interested in learning new skills
+- 🌱 I’m currently learning dev-ops, AWS services, block chains ..
